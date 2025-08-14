@@ -13,8 +13,9 @@
 * **Bài 1.7:** Nhập môn OOP - Lớp và Đối tượng
 * **Bài 1.8:** Các Trụ cột của OOP (Kế thừa, Đóng gói, Đa hình)
 * **Bài 1.9:** Đánh giá hiệu quả - Thuật toán và Độ phức tạp (Big O Notation)
-* **Bài 1.10:** Các Kỹ thuật và Tư duy Giải thuật Cốt lõi
-* **Bài 1.11:** Nhập môn Quy hoạch động
+* **Bài 1.10:** Các Thuật toán Sắp xếp & Tìm kiếm Kinh điển
+* **Bài 1.11:** Các Kỹ thuật và Tư duy Giải thuật Cốt lõi
+* **Bài 1.12:** Nhập môn Quy hoạch động
 
 ---
 
