@@ -49,10 +49,12 @@
 
 * **Bài 4.1:** Tổng quan về Học Máy & Giới thiệu Scikit-learn
 * **Bài 4.2:** Tiền xử lý Dữ liệu Cơ bản (Train-Test Split, Xử lý Giá trị thiếu)
-* **Bài 4.3:** Kỹ thuật Đặc trưng & Chuẩn hóa (Feature Engineering & Scaling)
-* **Bài 4.4:** Huấn luyện & Đánh giá Mô hình Phân loại
-* **Bài 4.5:** Vấn đề Cốt lõi: Overfitting, Underfitting & Sự đánh đổi
-* **Bài 4.6:** Đánh giá Mô hình Nâng cao (Cross-Validation & Hyperparameter Tuning)
+* **Bài 4.3:** Mã hóa Dữ liệu Hạng mục & Chuẩn hóa Đặc trưng
+* **Bài 4.4:** Các Kỹ thuật Xây dựng và Lựa chọn Đặc trưng
+* **Bài 4.5:** Huấn luyện & Đánh giá Mô hình Phân loại
+* **Bài 4.6:** Huấn luyện & Đánh giá Mô hình Hồi quy
+* **Bài 4.7:** Vấn đề Cốt lõi: Overfitting, Underfitting & Sự đánh đổi
+* **Bài 4.8:** Đánh giá Mô hình Nâng cao (Cross-Validation & Hyperparameter Tuning)
 
 ---
 
