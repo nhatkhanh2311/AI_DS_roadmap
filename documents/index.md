@@ -73,7 +73,8 @@
 
 ---
 
-### **===> Dự án Tổng hợp 1: Dự án Khoa học Dữ liệu End-to-End**
+### **===> Dự án Tổng hợp 1: Quy trình Phân loại Học máy Cổ điển**
+### **===> Dự án Tổng hợp 2: Hồi quy Nâng cao & Kỹ thuật Đặc trưng Chuyên sâu**
 
 ---
 
@@ -99,10 +100,16 @@
 * **Bài 7.6:** CV (Phần 2) - Object Detection (R-CNN)
 * **Bài 7.7:** CV (Phần 3) - Object Detection (YOLO)
 * **Bài 7.8:** CV (Phần 4) - Image Segmentation
+* **Bài 7.9:** RecSys (Phần 1) - Các Khái niệm Cốt lõi & Lọc Dựa trên Nội dung
+* **Bài 7.10:** RecSys (Phần 2) - Lọc Cộng tác (Collaborative Filtering)
+* **Bài 7.11:** RecSys (Phần 3) - Phân rã Ma trận (Matrix Factorization & SVD)
+* **Bài 7.12:** RecSys (Phần 4) - Học sâu cho Hệ thống Gợi ý
 
 ---
 
-### **===> Dự án Tổng hợp 2: Dự án Học sâu Ứng dụng**
+### **===> Dự án Tổng hợp 3: Ứng dụng Học sâu - Xử lý Ngôn ngữ (NLP)**
+### **===> Dự án Tổng hợp 4: Ứng dụng Học sâu - Thị giác Máy tính (CV)**
+### **===> Dự án Tổng hợp 5: Ứng dụng Học sâu - Hệ thống Gợi ý (RecSys)**
 
 ---
 
@@ -127,5 +134,3 @@
 * **Bài 9.7:** Kỹ năng Nghiên cứu (Phần 2) - Thiết kế Thí nghiệm & Viết báo cáo
 
 ---
-
-### **===> Dự án Tổng hợp 3: Xây dựng Đề cương Luận văn Tốt nghiệp**
