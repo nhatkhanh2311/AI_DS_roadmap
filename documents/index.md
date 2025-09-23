@@ -81,12 +81,13 @@
 ### **Giai đoạn 6: Chuyên sâu về Học Sâu và Mạng Nơ-ron**
 
 * **Bài 6.1:** Từ Hồi quy Logistic đến Mạng Nơ-ron
-* **Bài 6.2:** Lan truyền ngược & Các thuật toán Tối ưu hóa
+* **Bài 6.2:** Lan truyền ngược (Backpropagation) & Tối ưu hóa
 * **Bài 6.3:** Xây dựng Mạng Nơ-ron đầu tiên với TensorFlow & Keras
-* **Bài 6.4:** Các thách thức khi Huấn luyện Mạng Sâu
-* **Bài 6.5:** Mạng Tích chập (CNN) - Nền tảng
-* **Bài 6.6:** Thực hành: Xây dựng một Mạng Tích chập từ đầu
-* **Bài 6.7:** Sức mạnh của Học chuyển giao (Transfer Learning)
+* **Bài 6.4:** Vấn đề Gradient & Phương pháp Khởi tạo
+* **Bài 6.5:** Các Kỹ thuật Regularization - Dropout & Batch Normalization
+* **Bài 6.6:** Nền tảng Mạng Tích chập (CNN)
+* **Bài 6.7:** Thực hành: Xây dựng một Mạng Tích chập từ đầu
+* **Bài 6.8:** Sức mạnh của Học chuyển giao (Transfer Learning)
 
 ---
 
