@@ -91,47 +91,63 @@
 
 ---
 
-### **Giai đoạn 7: Các Lĩnh vực Ứng dụng Chuyên biệt**
-
-* **Bài 7.1:** NLP (Phần 1) - Biểu diễn Ngôn ngữ & Word Embeddings
-* **Bài 7.2:** NLP (Phần 2) - Mạng Hồi quy (RNN, LSTM, GRU)
-* **Bài 7.3:** NLP (Phần 3) - Kiến trúc Transformer & Cơ chế Attention
-* **Bài 7.4:** NLP (Phần 4) - Ứng dụng Pre-trained Transformers (BERT & GPT)
-* **Bài 7.5:** CV (Phần 1) - Các Kiến trúc CNN Nâng cao (ResNet, Inception)
-* **Bài 7.6:** CV (Phần 2) - Object Detection (R-CNN)
-* **Bài 7.7:** CV (Phần 3) - Object Detection (YOLO)
-* **Bài 7.8:** CV (Phần 4) - Image Segmentation
-* **Bài 7.9:** RecSys (Phần 1) - Các Khái niệm Cốt lõi & Lọc Dựa trên Nội dung
-* **Bài 7.10:** RecSys (Phần 2) - Lọc Cộng tác (Collaborative Filtering)
-* **Bài 7.11:** RecSys (Phần 3) - Phân rã Ma trận (Matrix Factorization & SVD)
-* **Bài 7.12:** RecSys (Phần 4) - Học sâu cho Hệ thống Gợi ý
+### **Giai đoạn 7: Xử lý Ngôn ngữ Tự nhiên (NLP)**
+* **Bài 7.1:** Biểu diễn Ngôn ngữ & Word Embeddings
+* **Bài 7.2:** Mạng Hồi quy (RNN, LSTM, GRU)
+* **Bài 7.3:** Kiến trúc Transformer & Cơ chế Attention
+* **Bài 7.4:** Ứng dụng Pre-trained Transformers (BERT & GPT)
 
 ---
 
 ### **===> Dự án Tổng hợp 3: Ứng dụng Học sâu - Xử lý Ngôn ngữ (NLP)**
+
+---
+
+### **Giai đoạn 8: Thị giác Máy tính (CV)**
+* **Bài 8.1:** Các Kiến trúc CNN Nâng cao (ResNet, Inception)
+* **Bài 8.2:** Object Detection (R-CNN)
+* **Bài 8.3:** Object Detection (YOLO)
+* **Bài 8.4:** Image Segmentation
+
+---
+
 ### **===> Dự án Tổng hợp 4: Ứng dụng Học sâu - Thị giác Máy tính (CV)**
+
+---
+
+### **Giai đoạn 9: Hệ thống Gợi ý (RecSys)**
+* **Bài 9.1:** Các Khái niệm Cốt lõi & Lọc Dựa trên Nội dung
+* **Bài 9.2:** Lọc Cộng tác (Collaborative Filtering)
+* **Bài 9.3:** Phân rã Ma trận (Matrix Factorization & SVD)
+* **Bài 9.4:** Học sâu cho Hệ thống Gợi ý
+
+---
+
 ### **===> Dự án Tổng hợp 5: Ứng dụng Học sâu - Hệ thống Gợi ý (RecSys)**
 
 ---
 
-### **Giai đoạn 8: AI Tạo sinh (Generative AI)**
+### **Giai đoạn 10: AI Tạo sinh (Generative AI)**
 
-* **Bài 8.1:** Nhập môn Mô hình sinh & Autoencoders
-* **Bài 8.2:** Variational Autoencoders (VAEs)
-* **Bài 8.3:** Generative Adversarial Networks (GANs)
-* **Bài 8.4:** GANs có điều kiện (Pix2pix, CycleGAN)
-* **Bài 8.5:** Mô hình Khuếch tán (Diffusion Models)
+* **Bài 10.1:** Nhập môn Mô hình sinh & Autoencoders
+* **Bài 10.2:** Variational Autoencoders (VAEs)
+* **Bài 10.3:** Generative Adversarial Networks (GANs)
+* **Bài 10.4:** GANs có điều kiện (Pix2pix, CycleGAN)
+* **Bài 10.5:** Mô hình Khuếch tán (Diffusion Models)
+
+---
+
+### **Giai đoạn 11: Các Chủ đề Kỹ thuật Nâng cao**
+
+* **Bài 11.1:** Mạng Nơ-ron trên Đồ thị (Graph Neural Networks - GNNs)
+* **Bài 11.2:** RL (Phần 1) - Nền tảng Học tăng cường
+* **Bài 11.3:** RL (Phần 2) - Học tăng cường Kinh điển (Q-Learning)
+* **Bài 11.4:** RL (Phần 3) - Deep Q-Networks (DQN)
+* **Bài 11.5:** RL (Phần 4) - Policy Gradients
 
 ---
 
-### **Giai đoạn 9: Các Chủ đề Đặc biệt & Kỹ năng Nghiên cứu**
-
-* **Bài 9.1:** Mạng Nơ-ron trên Đồ thị (GNNs)
-* **Bài 9.2:** RL (Phần 1) - Nền tảng Học tăng cường
-* **Bài 9.3:** RL (Phần 2) - Học tăng cường Kinh điển (Q-Learning)
-* **Bài 9.4:** RL (Phần 3) - Deep Q-Networks
-* **Bài 9.5:** RL (Phần 4) - Policy Gradients
-* **Bài 9.6:** Kỹ năng Nghiên cứu (Phần 1) - Vòng đời & Tìm kiếm Ý tưởng
-* **Bài 9.7:** Kỹ năng Nghiên cứu (Phần 2) - Thiết kế Thí nghiệm & Viết báo cáo
-
----
+### **Giai đoạn 12: Kỹ năng Nghiên cứu Khoa học**
+* **Bài 12.1:** Vòng đời Nghiên cứu & Tổng quan Tài liệu (Literature Review)
+* **Bài 12.2:** Thiết kế Thí nghiệm & Báo cáo Kết quả
+* **Bài 12.3:** Cấu trúc & Viết một Bài báo Khoa học
