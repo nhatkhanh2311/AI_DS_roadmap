@@ -60,15 +60,15 @@
 
 ### **Giai đoạn 5: Đi sâu vào các Thuật toán Học Máy Kinh điển**
 
-* **Bài 5.1:** Mô hình Tuyến tính - Hồi quy
-* **Bài 5.2:** Mô hình Tuyến tính - Phân loại
+* **Bài 5.1:** Mô hình Tuyến tính - Hồi quy (Linear, Polynomial, Ridge, Lasso)
+* **Bài 5.2:** Mô hình Tuyến tính - Phân loại (Logistic Regression)
 * **Bài 5.3:** Học dựa trên Xác suất - Naive Bayes Classifier
 * **Bài 5.4:** Học dựa trên khoảng cách - K-Nearest Neighbors (KNN)
 * **Bài 5.5:** Máy Vector Hỗ trợ (SVM)
-* **Bài 5.6:** Mô hình Cây - Cây Quyết định
+* **Bài 5.6:** Mô hình Cây - Cây Quyết định (Decision Trees)
 * **Bài 5.7:** Ensemble Methods (Phần 1) - Bagging và Random Forests
 * **Bài 5.8:** Ensemble Methods (Phần 2) - Boosting và Gradient Boosting
-* **Bài 5.9:** Học không giám sát
+* **Bài 5.9:** Học không giám sát (Unsupervised Learning)
 * **Bài 5.10:** Tối ưu hóa Lấy cảm hứng từ Tự nhiên - Thuật toán Di truyền
 
 ---
@@ -105,9 +105,9 @@
 
 ### **Giai đoạn 8: Thị giác Máy tính (CV)**
 * **Bài 8.1:** Các Kiến trúc CNN Nâng cao (ResNet, Inception)
-* **Bài 8.2:** Object Detection (R-CNN)
-* **Bài 8.3:** Object Detection (YOLO)
-* **Bài 8.4:** Image Segmentation
+* **Bài 8.2:** Phát hiện Vật thể - Phương pháp 2 Giai đoạn (R-CNN)
+* **Bài 8.3:** Phát hiện Vật thể - Phương pháp 1 Giai đoạn (YOLO)
+* **Bài 8.4:** Phân đoạn Ảnh (Image Segmentation)
 
 ---
 
