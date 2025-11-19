@@ -1,4 +1,4 @@
-# Lộ trình Học tập Toàn diện: AI & Khoa học Dữ liệu (9 Giai đoạn & 3 Dự án lớn)
+# Lộ trình Học tập: AI & Khoa học Dữ liệu
 
 ---
 
@@ -119,7 +119,7 @@
 * **Bài 9.1:** Các Khái niệm Cốt lõi & Lọc Dựa trên Nội dung
 * **Bài 9.2:** Lọc Cộng tác (Collaborative Filtering)
 * **Bài 9.3:** Phân rã Ma trận (Matrix Factorization & SVD)
-* **Bài 9.4:** Học sâu cho Hệ thống Gợi ý
+* **Bài 9.4:** Hệ thống Gợi ý Lai và Xu hướng Hiện đại (Hybrid Models)
 
 ---
 
